@@ -3,7 +3,7 @@ import PostsRouter from './routes/posts.router.js'
 
 const app = express()
 //const express = require('express');
-const PORT = 3000
+const PORT = 3010
 
 
 
